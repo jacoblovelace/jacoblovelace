@@ -1,6 +1,6 @@
 ### Hi, I'm Jacob!
 
-## I like to make projects and learn new things.
+# I like to make projects and learn new things.
 
 * UVA Computer Science '23
 * Passionate about fullstack and frontend web development!
